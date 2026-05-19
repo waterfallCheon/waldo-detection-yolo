@@ -1,0 +1,8 @@
+path: C:/waldo-project/dataset/processed
+train: train/images
+val: test/images
+test: test/images
+
+nc: 1
+names:
+  - waldo

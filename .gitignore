@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv/
+.ipynb_checkpoints/
+
+# Dataset
+dataset/
+*.zip
+*.rar
+*.7z
+
+# YOLO / training outputs
+runs/
+*.pt
+*.pth
+*.onnx
+*.engine
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/
