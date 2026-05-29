@@ -1,4 +1,4 @@
-# Waldo Detection using YOLO26-P2 and SAHI
+# Waldo Detection using YOLO26-P2
 
 This project detects Waldo in complex images using YOLO26-P2 and SAHI-based sliced inference.
 
