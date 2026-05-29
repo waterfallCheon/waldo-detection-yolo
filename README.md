@@ -14,8 +14,8 @@ This project detects Waldo in complex images using YOLO26-P2 and sliced inferenc
 
 | Method | AP50 | Precision | Recall | F1 | Mean IoU |
 |---|---:|---:|---:|---:|---:|
-| YOLO26-P2 + Processed + SAHI | 0.7119 | 0.6591 | 0.7954 | 0.7209 | 0.7724 |
+| YOLO26-P2 + Processed | 0.7119 | 0.6591 | 0.7954 | 0.7209 | 0.7724 |
 
 ## Conclusion
 
-Tile-based preprocessing and SAHI-based sliced inference improved small object detection performance for Waldo detection.
+Tile-based preprocessing and sliced inference improved small object detection performance for Waldo detection.
