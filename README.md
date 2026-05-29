@@ -1,13 +1,13 @@
 # Waldo Detection using YOLO26-P2
 
-This project detects Waldo in complex images using YOLO26-P2 and SAHI-based sliced inference.
+This project detects Waldo in complex images using YOLO26-P2 and sliced inference.
 
 ## Methods
 
 - YOLO26-P2 object detection
 - Raw dataset training
 - Processed tile-based dataset training
-- SAHI sliced inference
+- sliced inference
 - Custom evaluation using AP50, Precision, Recall, F1-score, and Mean IoU
 
 ## Best Result
